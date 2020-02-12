@@ -1,1 +1,1 @@
-# My first project in clojure
+# clojure
